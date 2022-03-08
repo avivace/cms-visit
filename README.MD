@@ -3,7 +3,7 @@
 Collection of educational and informative material about the Compact Muon Solenoid detector at CERN. Reference information for introducing visitors to the experiment, how it was built, how it is operating, how it is being upgraded, etc..
 
 <p align="center">
-  <img width="460" src="files/4049856.jpg">
+  <img width="100%" src="files/4049856.jpg">
 </p>
 
 For guides:
